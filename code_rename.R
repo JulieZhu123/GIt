@@ -1,5 +1,4 @@
  # this is a new file
- foo <- 'that'
- bar <- 'this'
+ foo <- 1
 
-newstr <- foo + bar
+ newvar <-37
