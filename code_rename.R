@@ -2,4 +2,4 @@
  foo <- 'that'
  bar <- 'this'
 
- foo + bar
+newstr <- foo + bar
