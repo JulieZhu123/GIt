@@ -4,3 +4,5 @@
  newvar <-37
 
  newstr <- 20
+
+ new_str <- 30
